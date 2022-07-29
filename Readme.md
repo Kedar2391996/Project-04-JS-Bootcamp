@@ -1,11 +1,11 @@
-# Project 03 SEO
+# Project 04 SEO
 
 ### Time to design website
 
 Took around 3 Hours
 
 ### Live Link
-[Home](https://letsbuildbettertomorrow.netlify.app/)
+[Home](https://seo04.netlify.app/)
 
 ![LCO](https://img.shields.io/badge/Ineuron-LCO-blue)
 
